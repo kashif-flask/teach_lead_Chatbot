@@ -13,7 +13,7 @@ Both apps use state-of-the-art models like **Whisper**, **Ollama (Mistral)**, an
 
 ### 🎯 Purpose
 
-Transcribe a Hindi customer call recording (`.mp3`) using **Whisper**, and summarize it into bullet points in **English** using an LLM.
+Transcribe a Hindi(or any language) customer call recording (`.mp3`) using **Whisper**, and summarize it into bullet points in **English** using an LLM.
 
 ### 🧩 Components
 
