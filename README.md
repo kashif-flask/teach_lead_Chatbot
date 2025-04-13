@@ -69,7 +69,6 @@ Ask questions about uploaded text/audio with memory-aware context using **RAG (R
 ```bash
 python3.10 -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
-pip install -r requirements.txt
 ```
 ### 📦 2. Install All Dependencies
 ```bash
