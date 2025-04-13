@@ -91,14 +91,14 @@ streamlit run rag.py
 
 ## 💡 Example Use Cases
 
-1.Sales Call Analysis
-2.Customer Support Summary
-3.Compliance Reviews
-4.Interview Transcripts
-5.Voice-to-Insight Pipelines
+1. Sales Call Analysis
+2. Customer Support Summary
+3. Compliance Reviews
+4. Interview Transcripts
+5. Voice-to-Insight Pipelines
 
 ## 📝 Notes
 
-1.Hindi language support is powered by Whisper’s multilingual capabilities
-2.Vector DB (chroma_db/) persists embeddings unless manually cleared
-3.Time taken for transcription, retrieval, and generation is shown for transparency
+1. Hindi language support is powered by Whisper’s multilingual capabilities
+2. Vector DB (chroma_db/) persists embeddings unless manually cleared
+3. Time taken for transcription, retrieval, and generation is shown for transparency
