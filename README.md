@@ -73,7 +73,20 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 ### 📦 2. Install All Dependencies
 ```bash
 pip install -r requirements.txt
+# on Ubuntu or Debian
+sudo apt update && sudo apt install ffmpeg
+
+# on Arch Linux
+sudo pacman -S ffmpeg
+
+# on MacOS using Homebrew (https://brew.sh/)
 brew install ffmpeg
+
+# on Windows using Chocolatey (https://chocolatey.org/)
+choco install ffmpeg
+
+# on Windows using Scoop (https://scoop.sh/)
+scoop install ffmpeg
 ```
 ### 🤖 3. Pull the Mistral Model Using Ollama
 Make sure Ollama is installed on you laptop and running:
