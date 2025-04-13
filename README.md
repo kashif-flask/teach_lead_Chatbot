@@ -76,7 +76,7 @@ pip install -r requirements.txt
 pip install -r requirements.txt
 ```
 ### 🤖 3. Pull the Mistral Model Using Ollama
-Make sure Ollama is installed and running:
+Make sure Ollama is installed on you laptop and running:
 ```bash
 ollama pull mistral
 ```
